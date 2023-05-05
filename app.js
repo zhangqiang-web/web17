@@ -23,8 +23,13 @@ console.log("这是我的app.js文件");
 // 存储临时分支改动：git stash
 // 恢复改动：git stash pop
 
+//git提交远程仓库
+//创建远程仓库别名： git remote add 别名 远程git仓库地址
+//提交：git push -u 别名 分支名
 
 
+//使用SSH登录
+//创建公告key： ssh-keygen
 
 
 
